@@ -8,3 +8,19 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-include-cache
+
+# Author sidebar content
+author:
+  name   : "Bhupesh Verma"
+  avatar : "/assets/images/avatar.jpg"   # path to your photo
+  bio    : "Computation scientist | Additive Manufacturing"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:you@domain.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/YOURHANDLE/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/bhupeshve"

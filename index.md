@@ -1,8 +1,9 @@
 ---
-layout: single
-title: "Bhupesh Verma"
-permalink: /
+layout: home
+author_profile: false
 ---
+
+# Bhupesh Verma
 
 ## Projects
 ### Project - 1

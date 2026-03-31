@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: single
 title: About
 permalink: /about/
 ---
 
-Write your bio here.
+Your bio...

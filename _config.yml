@@ -3,6 +3,5 @@ title: Bhupesh Verma
 #logo
 description: Computation scientist | Additive Manufacturing
 #show_downloads: true
-theme: jekyll-theme-minimal
-#minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"

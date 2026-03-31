@@ -1,7 +1,10 @@
-title: Bhupesh Verma
 #masthead_title: "Bhupesh Verma"
 #logo
-description: Computation scientist | Additive Manufacturing
 #show_downloads: true
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+title: Bhupesh Verma
+description: Computation scientist | Additive Manufacturing
+
+remote_theme: "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+plugins:
+  - jekyll-include-cache

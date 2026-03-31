@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Bhupesh Verma
-
 ## Projects
 ### Project - 1
 - Description

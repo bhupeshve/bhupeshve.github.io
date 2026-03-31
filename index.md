@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-# About
+## About
 
 ## Projects
 ### Project - 1

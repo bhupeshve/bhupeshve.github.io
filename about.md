@@ -3,7 +3,7 @@ YAML front matter
 ---
 
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 ---

@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Home
+layout: single
+title: "Bhupesh Verma"
+permalink: /
 ---
 
 ## Projects

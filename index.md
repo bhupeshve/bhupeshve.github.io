@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-# Bhupesh Verma
+# About
 
 ## Projects
 ### Project - 1

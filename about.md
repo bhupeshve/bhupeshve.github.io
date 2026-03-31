@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Short bio, focus areas, tools, interests.
+Write your bio here.

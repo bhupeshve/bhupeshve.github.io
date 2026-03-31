@@ -1,3 +1,3 @@
 ## Theme
 
-I am using Jekyll minimal theme for creating my web page
+I am using Jekyll minimal mistakes theme for creating my web page

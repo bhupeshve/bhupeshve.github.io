@@ -3,8 +3,6 @@ layout: home
 author_profile: true
 ---
 
-## About
-
 ## Projects
 ### Project - 1
 - Description

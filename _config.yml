@@ -5,6 +5,6 @@ title: Bhupesh Verma
 description: Computation scientist | Additive Manufacturing
 
 remote_theme: "mmistakes/minimal-mistakes"
-#minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-include-cache

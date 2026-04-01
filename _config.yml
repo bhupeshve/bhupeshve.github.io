@@ -9,7 +9,7 @@ plugins:
 locale: "en-US"
 title: "Bhupesh"
 subtitle: "Subtitle"
-masthead_title: " "
+masthead_title: "Bhupesh Verma"
 logo: "assets/images/logo4.jpeg"
 description: Computation scientist | Additive Manufacturing
 #show_downloads: true
